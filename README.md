@@ -38,30 +38,30 @@ layout:
 {% column %}
 ### For Customers
 
-* [Entering Competitions](customers/entering-competitions.md)
-* [Basket & Checkout](customers/basket-and-checkout.md)
-* [Your Account](customers/your-account.md)
-* [Wallet](customers/wallet.md)
-* [Winning & Prizes](customers/winning-and-prizes.md)
-* [Safe Play](customers/safe-play.md)
-* [Free Entry Route](customers/free-entry.md)
-* [ID Verification](customers/id-verification.md)
-* [FAQs](customers/faqs.md)
+* [Entering Competitions](customers/entering-competitions.md "mention")
+* [Basket & Checkout](customers/basket-and-checkout.md "mention")
+* [Your Account](customers/your-account.md "mention")
+* [Wallet](customers/wallet.md "mention")
+* [Winning & Prizes](customers/winning-and-prizes.md "mention")
+* [Safe Play](customers/safe-play.md "mention")
+* [Free Entry Route](customers/free-entry.md "mention")
+* [ID Verification](customers/id-verification.md "mention")
+* [FAQs](customers/faqs.md "mention")
 {% endcolumn %}
 
 {% column %}
 ### For Admins
 
-* [Managing Competitions](admin/managing-competitions.md)
-* [Orders & Wallets](admin/orders-and-wallets.md)
-* [Users](admin/users.md)
-* [Instant Wins](admin/instant-wins.md)
-* [Winners & Draw](admin/winners-and-draw.md)
-* [Analytics](admin/analytics.md)
-* [Coupons](admin/coupons.md)
-* [Settings](admin/settings.md)
-* [Integrations](admin/integrations.md)
-* [Content Management](admin/content.md)
+* [Managing Competitions](admin/managing-competitions.md "mention")
+* [Orders & Wallets](admin/orders-and-wallets.md "mention")
+* [Users](admin/users.md "mention")
+* [Instant Wins](admin/instant-wins.md "mention")
+* [Winners & Draw](admin/winners-and-draw.md "mention")
+* [Analytics](admin/analytics.md "mention")
+* [Coupons](admin/coupons.md "mention")
+* [Settings](admin/settings.md "mention")
+* [Integrations](admin/integrations.md "mention")
+* [Content Management](admin/content.md "mention")
 {% endcolumn %}
 {% endcolumns %}
 
